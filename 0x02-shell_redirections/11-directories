@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Aa /../. | wc -l
+file -name "*.js" -type f -delete
